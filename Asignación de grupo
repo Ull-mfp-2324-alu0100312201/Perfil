@@ -1,5 +1,5 @@
-#ASIGNACION DE GRUPOS#
-# El problema de Enlazar las Cuentas GH con las cuentas del LMS
+# ASIGNACION DE GRUPOS
+El problema de Enlazar las Cuentas GH con las cuentas del LMS:
 Si bien los repositorios creados al aceptar una invitación de asignación de GHC tienen un esquema de nombres consistente, parte del nombre es la cuenta de GH nombre elegido por el estudiante.
 Mientras que el problema de encontrar el repositorio de un estudiante en particular se hace más fácil debido a la consistencia del esquema, en una clase grande aún puede requerir bastante tiempo.
 De hecho una solución parcial al problema es solicitar a los alumnos que tengan una cuenta github cuyo login coincida con su identificador en el LMS. Obviamente no todos los alumnos van a seguir esas instrucciones.
